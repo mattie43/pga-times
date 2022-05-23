@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.row, .row > * {
+  margin: 2px;
+}
+
+body {
+  background-color: gray !important;
+}
+
+.btn {
+  max-width: 140px !important;
+}
+
+.time {
+  font-size: 20px;
+}
